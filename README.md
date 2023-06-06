@@ -2,6 +2,8 @@
 
 Converts a basic inky (https://www.inklestudios.com/ink/) file to a mermaid graph and creates a pdf out of it as well. Does help to get an overview how the structure of the ink story looks.
 
+![example_output](example_output.pdf)
+
 ## not-features
 
 - cannot handle subchoices
